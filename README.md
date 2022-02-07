@@ -13,7 +13,9 @@ Analysis of Seattle Airbnb data. The analysis tries to understand how various fe
 - data/listings.csv - CSV file containg airbnb data about listings such as beds, bedrooms, bathrooms etc
 
 ### Summary
-From the analysis we find that some features in the dataset such as neighbourhood, room type, bedrooms, bathrooms do influence the pricing of the listings. We also found that other features such as host response time had no impact on the listing price.
+From the analysis we find that some features in the dataset such as neighbourhood, room type, bedrooms, bathrooms do influence the pricing of the listings. We also found that other features such as host response time had no impact on the listing price. 
+
+Blog post https://medium.com/@alex.machariam/3-insights-from-airbnb-seattle-data-55202ad9d8a9
 
 ### Acknowledgements
 https://www.kaggle.com/aleksandradeis/airbnb-seattle-reservation-prices-analysis
