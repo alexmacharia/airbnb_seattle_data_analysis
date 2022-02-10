@@ -1,6 +1,13 @@
 # airbnb_seattle_data_analysis
 Analysis of Seattle Airbnb data. The analysis tries to understand how various features of the Airbnb listings affect their prices.
 
+The questions that I aim to answer are:-
+
+Question 1: Does the neighbourhood affect the price?
+Question 2: Does the room type influence the price?
+Question 3: Does the host response time have an impact on the price?
+
+
 ### Libraries used
 - pandas
 - matplotlib
